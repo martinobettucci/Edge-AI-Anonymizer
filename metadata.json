@@ -1,0 +1,5 @@
+{
+  "name": "Presidio Data Anonymizer",
+  "description": "Anonymize sensitive data using placeholder mapping to protect PII. Restore the original data later using the generated key. This app simulates Microsoft Presidio's functionality for demonstration.",
+  "requestFramePermissions": []
+}
